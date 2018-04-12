@@ -1,0 +1,148 @@
+Industry,Industry
+Accounting ,Accounting
+Airlines/Aviation,"Airlines,Aviation"
+Alternative Dispute Resolution,AlternativeDisputeResolution
+Alternative Medicine,AlternativeMedicine
+Animation,Animation
+Apparel/Fashion,"Apparel,Fashion"
+Architecture/Planning,Architecture
+Arts/Crafts,"Arts,Crafts"
+Automotive,Automotive
+Aviation/Aerospace,"Aviation,Aerospace"
+Banking/Mortgage,"Banking,Mortgage"
+Biotechnology/Greentech,"Biotechnology,Greentech"
+Broadcast Media,BroadcastMedia
+Building Materials,BuildingMaterials
+Business Supplies/Equipment,"BusinessSupplies,BusinessEquipment"
+Capital Markets/Hedge Fund/Private Equity,"CapitalMarkets,HedgeFund,PrivateEquity"
+Chemicals,Chemicals
+Civic/Social Organization,"CivicOrganization,SocialOrganization"
+Civil Engineering,CivilEngineering
+Commercial Real Estate,CommercialRealEstate
+Computer Games,ComputerGames
+Computer Hardware,ComputerHardware
+Computer Networking,ComputerNetworking
+Computer Software/Engineering,"ComputerSoftware,ComputerEngineering"
+Computer/Network Security,"ComputerSecurity,NetworkSecurity"
+Construction,Construction
+Consumer Electronics,ConsumerElectronics
+Consumer Goods,ConsumerGoods
+Consumer Services,ConsumerServices
+Cosmetics,Cosmetics
+Dairy,Dairy
+Defense/Space,"Defense,Space"
+Design,Design
+E-Learning,ELearning
+Education Management,EducationManagement
+Electrical/Electronic Manufacturing,"ElectricalManufacturing,ElectronicManufacturing"
+Entertainment/Movie Production,"Entertainment,Movi Production"
+Environmental Services,EnvironmentalServices
+Events Services,EventsServices
+Executive Office,ExecutiveOffice
+Facilities Services,FacilitiesServices
+Farming,Farming
+Financial Services,FinancialServices
+Fine Art,FineArt
+Fishery,Fishery
+Food Production,FoodProduction
+Food/Beverages,"Food,Beverages"
+Fundraising,Fundraising
+Furniture,Furniture
+Gambling/Casinos,"Gambling,Casinos"
+Glass/Ceramics/Concrete,"Glass,Ceramics,Concrete"
+Government Administration,GovernmentAdministration
+Government Relations,GovernmentRelations
+Graphic Design/Web Design,"GraphicDesign,WebDesign"
+Health/Fitness,"Health,Fitness"
+Higher Education/Acadamia,"HigherEducation,Acadamia"
+Hospital/Health Care,"Hospital,HealthCare"
+Hospitality,Hospitality
+Human Resources/HR,"HumanResources,HR"
+Import/Export,ImportExport
+Individual/Family Services,"IndividualServices,FamilyServices"
+Industrial Automation,IndustrialAutomation
+Information Services,InformationServices
+Information Technology/IT,"InformationTechnology,IT"
+Insurance,Insurance
+International Affairs,InternationalAffairs
+International Trade/Development,"InternationalTrade,InternationalDevelopment"
+Internet,Internet
+Investment Banking/Venture,"InvestmentBanking,InvestmentVenture"
+Investment Management/Hedge Fund/Private Equity,"InvestmentManagement,HedgeFund,PrivateEquity"
+Judiciary,Judiciary
+Law Enforcement,LawEnforcement
+Law Practice/Law Firms,"LawPractice,LawFirms"
+Legal Services,LegalServices
+Legislative Office,LegislativeOffice
+Leisure/Travel,"Tourism"
+Library,Library
+Logistics/Procurement,"Logistics,Procurement"
+Luxury Goods/Jewelry,"LuxuryGoods,Jewelry"
+Machinery,Machinery
+Management Consulting,ManagementConsulting
+Maritime,Maritime
+Market Research,Market Research
+Marketing/Advertising/Sales,"Marketing,Advertising,Sales"
+Mechanical or Industrial Engineering,"MechanicalEngineering,IndustrialEngineering"
+Media Production,MediaProduction
+Medical Equipment,MedicalEquipment
+Medical Practice,MedicalPractice
+Mental Health Care,MentalHealthCare
+Military Industry,MilitaryIndustry
+Mining/Metals,"Mining,Metals"
+Motion Pictures/Film,"MotionPictures,Film"
+Museums/Institutions,"Museums,Institutions"
+Music,Music
+Nanotechnology,Nanotechnology
+Newspapers/Journalism,"Newspapers,Journalism"
+Non-Profit/Volunteering,"NonProfit,Volunteering"
+Oil/Energy/Solar/Greentech,"Oil,Energy,Solar,Greentech"
+Online Publishing,OnlinePublishing
+Other Industry,OtherIndustry
+Outsourcing/Offshoring,"Outsourcing,Offshoring"
+Package/Freight Delivery,"PackageDelivery,FreightDelivery"
+Packaging/Containers,"Packaging,Containers"
+Paper/Forest Products,"PaperProducts,ForestProducts"
+Performing Arts,PerformingArts
+Pharmaceuticals,Pharmaceuticals
+Philanthropy,Philanthropy
+Photography,Photography
+Plastics,Plastics
+Political Organization,PoliticalOrganization
+Primary/Secondary Education,"PrimaryEducation,SecondaryEducation"
+Printing,Printing
+Professional Training,ProfessionalTraining
+Program Development,ProgramDevelopment
+Public Relations/PR,PublicRelations
+Public Safety,PublicSafety
+Publishing Industry,PublishingIndustry
+Railroad Manufacture,Railroad
+Ranching,Ranching
+Real Estate/Mortgage,"RealEstate,Mortgage"
+Recreational Facilities/Services,"RecreationalFacilities,Services"
+Religious Institutions,ReligiousInstitutions
+Renewables/Environment,"Renewables,Environment"
+Research Industry,ResearchIndustry
+Restaurants,Restaurants
+Retail Industry,RetailIndustry
+Security/Investigations,"Security,Investigations"
+Semiconductors,Semiconductors
+Shipbuilding,Shipbuilding
+Sporting Goods,SportingGoods
+Sports,Sports
+Staffing/Recruiting,"Staffing,Recruiting"
+Supermarkets,Supermarkets
+Telecommunications,Telecommunications
+Textiles,Textiles
+Think Tanks,ThinkTanks
+Tobacco,Tobacco
+Translation/Localization,"Translation,Localization"
+Transportation,Transportation
+Utilities,Utilities
+Venture Capital/VC,VentureCapital
+Veterinary,Veterinary
+Warehousing,Warehousing
+Wholesale,Wholesale
+Wine/Spirits,"Wine,Spirits"
+Wireless,Wireless
+Writing/Editing,"Writing,Editing"
